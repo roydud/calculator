@@ -178,14 +178,6 @@ def acosh():
 
 
 
-# def mod():
-#     global op
-#     op = str(eval(op))
-#     op = int(op)
-#     op = str(math.modf(op))
-#     txtin.set(op)
-
-
 # ******=================================BUTTON=============================================*************
 
 
